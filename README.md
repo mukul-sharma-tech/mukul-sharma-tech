@@ -1,12 +1,16 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=280&section=header&text=Mukul&fontSize=80&fontAlignY=35&animation=twinkling&desc=Software%20Engineer%20Intern%20@%20UIDAI%20%7C%209.2+%20CGPA&descAlignY=60&descAlign=50" width="100%"/>
+  
+  <br/>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=Building+Scalable+Distributed+Systems;Crafting+Next-Gen+AI+%26+Web3+Solutions;Software+Engineer+Intern+@+UIDAI;Competitive+Programmer+(LeetCode+386%2B)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=33E3FF&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+Distributed+Systems;Crafting+Next-Gen+AI+%26+Web3+Solutions;Software+Engineer+Intern+@+UIDAI;Competitive+Programmer+(LeetCode+386%2B)" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=mukul-sharma-tech&color=blue&style=flat-square&label=Profile+Views)
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/mukul1010/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
