@@ -75,8 +75,8 @@ Most recently, I worked as a **Software Engineer Intern at UIDAI**, building sca
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mukul-sharma-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul-sharma-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="top langs"/>
 </div>
 
 <br/>
