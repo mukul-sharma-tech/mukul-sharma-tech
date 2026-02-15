@@ -17,6 +17,8 @@
 
 </div>
 
+
+![Mukul's GitHub Stats](https://github-readme-stats.vercel.app)
 ---
 
 ### 🚀 About Me
